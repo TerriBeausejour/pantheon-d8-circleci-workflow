@@ -1,0 +1,14 @@
+uuid: 85354f74-d627-4664-a1c7-15949d3768b6
+name: pantheon-d8-circleci-workflow
+mail: terribeausejour@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: AyT9s8OUcclfALRE_imByOMgtZ19eOlqdF6zI3p7yqo
